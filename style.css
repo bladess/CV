@@ -1,0 +1,15 @@
+.title{
+	text-align: center;
+}
+.soustitre{
+	color : red;
+	text-decoration: underline;
+}
+.bold{
+	font-weight:  : bold;
+}
+.presentation{
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+}
