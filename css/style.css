@@ -1,0 +1,43 @@
+@font-face{
+	font-family: "perso";
+	src : url("police/OldNewspaperTypes.ttf");
+}
+@font-face{
+	font-family:"title";
+	src : url("police/Squares Bold Free.otf");
+}
+body{
+	background: url("img/wall.jpg");
+	color: white;
+	font-family: "perso", sans-serif;
+}
+.title{
+	text-align: center;
+}
+header{
+	display:flex;
+	justify-content: space-between;
+}
+.soustitre{
+	color : red;
+	text-decoration: underline;
+	text-align:center;
+	text-shadow: 0.1em 0.1em 0.2em white;
+	font-family: "title" ,sans-serif;
+	font-size: 25px;
+}
+.bold{
+	font-weight:  : bold;
+}
+.presentation{
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+.partie{
+	display: flex;
+	justify-content: space-between;
+}
+.interest{
+	text-align: center;
+}
