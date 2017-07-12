@@ -1,4 +1,4 @@
-@media handled and (orientation: portrait) {
+@media all and (orientation: portrait) {
 @font-face{
 	font-family: "perso";
 	src : url("police/Timeless.ttf");
