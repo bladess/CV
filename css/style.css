@@ -1,6 +1,6 @@
 @font-face{
 	font-family: "perso";
-	src : url("police/OldNewspaperTypes.ttf");
+	src : url("police/Timeless.ttf");
 }
 @font-face{
 	font-family:"title";
@@ -13,6 +13,7 @@ body{
 }
 .title{
 	text-align: center;
+	font-family: "Capriola", sans-serif;
 }	
 header{
 	display:flex;
@@ -20,7 +21,7 @@ header{
 }
 .soustitre{
 	color : red;
-	text-decoration: underline;
+	
 	text-align:center;
 	text-shadow: 0.1em 0.1em 0.2em white;
 	font-family: "title" ,sans-serif;
@@ -37,7 +38,6 @@ header{
 .partie{
 	display: flex;
 	justify-content: space-between;
-	align-items: flex-start;
 }
 .interest{
 	text-align: center;
