@@ -1,4 +1,4 @@
-@media handled and (min-width: 600px) {
+@media all and (orientation: portrait) {
 @font-face{
 	font-family: "perso";
 	src : url("police/Timeless.ttf");
