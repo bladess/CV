@@ -1,4 +1,4 @@
-@media handled and (min-width: 1280px) {
+@media handled and (min-width: 600px) {
 @font-face{
 	font-family: "perso";
 	src : url("police/Timeless.ttf");
