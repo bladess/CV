@@ -1,4 +1,4 @@
-@media handled and (min-device-width: 1px) {
+@media handled and (min-width: 1280px) {
 @font-face{
 	font-family: "perso";
 	src : url("police/Timeless.ttf");
@@ -17,7 +17,7 @@ body{
 .title{
 	text-align: center;
 	font-family: "Capriola", sans-serif;
-	color : purple;
+	
 }	
 header{
 	display:flex;
@@ -44,8 +44,9 @@ header img{
 }
 .partie{
 	display: flex;
-	flex-direction: column;
+	flex-direction: column;	
 	justify-content: space-between;
+	text-align: center;
 }
 .interest{
 	text-align: center;
