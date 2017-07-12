@@ -42,7 +42,7 @@ header img{
 }
 .partie{
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 }
 .interest{
 	text-align: center;
