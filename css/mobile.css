@@ -1,4 +1,4 @@
-@media not screen {
+@media handled and (min-device-width: 1px) {
 @font-face{
 	font-family: "perso";
 	src : url("police/Timeless.ttf");
